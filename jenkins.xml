@@ -3,7 +3,7 @@
 <suite name="suite1" verbose="2">
 
     <test name="MyFirstTest">
-        <parameter name="browser" value="firefox"></parameter>
+        <parameter name="browser" value="chrome"></parameter>
         <classes>
             <class name="Tests.PBtestTry">
                 <methods>
